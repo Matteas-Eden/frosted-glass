@@ -4,18 +4,16 @@ import './Frosted.scss';
 const bgImage = "https://source.unsplash.com/collection/1065396/1600x900";
 const bgImageValue = `url(${bgImage})`;
 
-class FrostedGlassView extends React.Component {
-    render() {
-        return (
-            <div style={!this.props.disabled ? { backgroundColor: bgImageValue, backgroundImage: bgImageValue } : {}}
-                className={"bg frosted-glass " + (this.props.className ? this.props.className : "")}
-            >
-                <div className="frosted-glass-content">
-                    {this.props.children}
-                </div>
+const FrostedGlassView = (props) => {
+    return (
+        <div style={!props.disabled ? { backgroundColor: bgImageValue, backgroundImage: bgImageValue } : {}}
+            className={"bg frosted-glass " + (props.className ? props.className : "")}
+        >
+            <div className="frosted-glass-content">
+                {props.children}
             </div>
-        );
-    }
+        </div>
+    );
 }
 
 class App extends React.Component {
