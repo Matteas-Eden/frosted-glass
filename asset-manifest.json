@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.798102be.chunk.css",
-    "main.js": "/static/js/main.dd097e60.chunk.js",
-    "main.js.map": "/static/js/main.dd097e60.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.107bb8ca.js",
-    "runtime-main.js.map": "/static/js/runtime-main.107bb8ca.js.map",
-    "static/js/2.80027728.chunk.js": "/static/js/2.80027728.chunk.js",
-    "static/js/2.80027728.chunk.js.map": "/static/js/2.80027728.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.65cb78c88aa1a4b1bbd5c20bd3a5f6c0.js": "/precache-manifest.65cb78c88aa1a4b1bbd5c20bd3a5f6c0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.798102be.chunk.css.map": "/static/css/main.798102be.chunk.css.map",
-    "static/js/2.80027728.chunk.js.LICENSE.txt": "/static/js/2.80027728.chunk.js.LICENSE.txt"
+    "main.css": "/frosted-glass/static/css/main.798102be.chunk.css",
+    "main.js": "/frosted-glass/static/js/main.e102ccad.chunk.js",
+    "main.js.map": "/frosted-glass/static/js/main.e102ccad.chunk.js.map",
+    "runtime-main.js": "/frosted-glass/static/js/runtime-main.e30549c4.js",
+    "runtime-main.js.map": "/frosted-glass/static/js/runtime-main.e30549c4.js.map",
+    "static/js/2.fcd80bda.chunk.js": "/frosted-glass/static/js/2.fcd80bda.chunk.js",
+    "static/js/2.fcd80bda.chunk.js.map": "/frosted-glass/static/js/2.fcd80bda.chunk.js.map",
+    "index.html": "/frosted-glass/index.html",
+    "precache-manifest.c11e0a0ccfe98231c264dbadcdb7f889.js": "/frosted-glass/precache-manifest.c11e0a0ccfe98231c264dbadcdb7f889.js",
+    "service-worker.js": "/frosted-glass/service-worker.js",
+    "static/css/main.798102be.chunk.css.map": "/frosted-glass/static/css/main.798102be.chunk.css.map",
+    "static/js/2.fcd80bda.chunk.js.LICENSE.txt": "/frosted-glass/static/js/2.fcd80bda.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.107bb8ca.js",
-    "static/js/2.80027728.chunk.js",
+    "static/js/runtime-main.e30549c4.js",
+    "static/js/2.fcd80bda.chunk.js",
     "static/css/main.798102be.chunk.css",
-    "static/js/main.dd097e60.chunk.js"
+    "static/js/main.e102ccad.chunk.js"
   ]
 }
