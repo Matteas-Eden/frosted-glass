@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a793288ee8490773eb0b4081180d6914",
+    "revision": "a5bfead82dda18e2ed8f7cd8a6049079",
     "url": "/frosted-glass/index.html"
   },
   {
-    "revision": "97a7684443a266c8a1ad",
+    "revision": "a1cf5efe01089f4a0d2d",
     "url": "/frosted-glass/static/css/main.798102be.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frosted-glass/static/js/2.fcd80bda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "97a7684443a266c8a1ad",
-    "url": "/frosted-glass/static/js/main.0d4e2948.chunk.js"
+    "revision": "a1cf5efe01089f4a0d2d",
+    "url": "/frosted-glass/static/js/main.d15d9072.chunk.js"
   },
   {
     "revision": "6a1a466641998e8bac2c",
