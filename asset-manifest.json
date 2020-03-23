@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/frosted-glass/static/css/main.798102be.chunk.css",
-    "main.js": "/frosted-glass/static/js/main.e102ccad.chunk.js",
-    "main.js.map": "/frosted-glass/static/js/main.e102ccad.chunk.js.map",
+    "main.js": "/frosted-glass/static/js/main.72c4026c.chunk.js",
+    "main.js.map": "/frosted-glass/static/js/main.72c4026c.chunk.js.map",
     "runtime-main.js": "/frosted-glass/static/js/runtime-main.e30549c4.js",
     "runtime-main.js.map": "/frosted-glass/static/js/runtime-main.e30549c4.js.map",
     "static/js/2.fcd80bda.chunk.js": "/frosted-glass/static/js/2.fcd80bda.chunk.js",
     "static/js/2.fcd80bda.chunk.js.map": "/frosted-glass/static/js/2.fcd80bda.chunk.js.map",
     "index.html": "/frosted-glass/index.html",
-    "precache-manifest.c11e0a0ccfe98231c264dbadcdb7f889.js": "/frosted-glass/precache-manifest.c11e0a0ccfe98231c264dbadcdb7f889.js",
+    "precache-manifest.84933deca8a3816ae584156f8afb5834.js": "/frosted-glass/precache-manifest.84933deca8a3816ae584156f8afb5834.js",
     "service-worker.js": "/frosted-glass/service-worker.js",
     "static/css/main.798102be.chunk.css.map": "/frosted-glass/static/css/main.798102be.chunk.css.map",
     "static/js/2.fcd80bda.chunk.js.LICENSE.txt": "/frosted-glass/static/js/2.fcd80bda.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e30549c4.js",
     "static/js/2.fcd80bda.chunk.js",
     "static/css/main.798102be.chunk.css",
-    "static/js/main.e102ccad.chunk.js"
+    "static/js/main.72c4026c.chunk.js"
   ]
 }
