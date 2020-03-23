@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/frosted-glass/precache-manifest.84933deca8a3816ae584156f8afb5834.js"
+  "/frosted-glass/precache-manifest.4f30217c849cefd5b773ad9c5645ec77.js"
 );
 
 self.addEventListener('message', (event) => {
