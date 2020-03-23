@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4846bd7aa7125caa6a4917f0c335ddcd",
+    "revision": "a793288ee8490773eb0b4081180d6914",
     "url": "/frosted-glass/index.html"
   },
   {
